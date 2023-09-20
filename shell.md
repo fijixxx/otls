@@ -1,0 +1,6 @@
+- peco
+  - https://github.com/peco/peco
+- ghq
+  - https://github.com/x-motemen/ghq
+- zsh, pretzo
+  - https://gist.github.com/fijixxx/ab46d265fae53c14c4209f9821b5538a
