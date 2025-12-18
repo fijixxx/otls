@@ -1,0 +1,8 @@
+[tools]
+go = "latest"
+python = "latest"
+terraform = "latest"
+uv = "latest"
+
+[settings]
+python_compile = true
